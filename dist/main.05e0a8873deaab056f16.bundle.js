@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("helper"),console.log("index.js"),console.log("changed"),console.log("script.js"),console.log(2)})();
